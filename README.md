@@ -12,7 +12,7 @@ Estrutura do Projeto
 Um único arquivo index.html com as informações sobre o parque.
 
 Conceitos Abordados
-Utilização de tags HTML básicas, como <html>, <head>, <body>, <h1>, <p>, <ul>, <li>, entre outras.
+Utilização de tags HTML básicas, como (<html>, <head>, <body>, <h1>, <p>, <ul>, <li>), entre outras.
 Organização do conteúdo de forma simples e direta.
 
 Este projeto é apenas para fins de aprendizado. No entanto, contribuições para a melhoria do código ou sugestões são sempre bem-vindas!
